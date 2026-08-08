@@ -9,9 +9,9 @@ O sistema deverá garantir a segurança das informações armazenadas e processa
 
 **Rastreabilidade:**
 
-* Contexto: CTX-08
-* Ambiguidade/Ponto de esclarecimento: —
-* Stakeholders: Equipe de TI / Organizadores
+- Contexto: CTX-08
+- Ambiguidade/Ponto de esclarecimento: —
+- Stakeholder: Equipe de TI / Organizadores
 
 ---
 
@@ -22,9 +22,10 @@ O sistema deverá proteger os dados pessoais dos participantes e restringir sua 
 
 **Rastreabilidade:**
 
-* Contexto: CTX-06, CTX-08
-* Ambiguidade/Ponto de esclarecimento: —
-* Stakeholders: Equipe de TI / Participantes / Palestrantes
+- Contexto: CTX-06, CTX-08
+- Ambiguidade/Ponto de esclarecimento: AIC-06
+- Requisito funcional relacionado: RF-16
+- Stakeholder: Equipe de TI / Participantes / Palestrantes
 
 ---
 
@@ -35,9 +36,9 @@ O sistema deverá apresentar desempenho adequado durante as operações de consu
 
 **Rastreabilidade:**
 
-* Contexto: CTX-08
-* Ambiguidade/Ponto de esclarecimento: —
-* Stakeholders: Participantes / Organizadores / Equipe de TI
+- Contexto: CTX-08
+- Ambiguidade/Ponto de esclarecimento: —
+- Stakeholder: Participantes / Organizadores / Equipe de TI
 
 **Observação:**
 Os tempos máximos de resposta e a quantidade esperada de usuários simultâneos ainda precisam ser definidos.
@@ -51,9 +52,9 @@ O sistema deverá permanecer disponível para acesso aos participantes e organiz
 
 **Rastreabilidade:**
 
-* Contexto: CTX-08
-* Ambiguidade/Ponto de esclarecimento: —
-* Stakeholders: Participantes / Organizadores / Equipe de TI
+- Contexto: CTX-08
+- Ambiguidade/Ponto de esclarecimento: —
+- Stakeholder: Participantes / Organizadores / Equipe de TI
 
 **Observação:**
 O percentual mínimo de disponibilidade e os períodos de manutenção ainda precisam ser definidos.
@@ -67,9 +68,10 @@ O sistema deverá controlar o acesso às funcionalidades e informações de acor
 
 **Rastreabilidade:**
 
-* Contexto: CTX-02, CTX-06, CTX-08
-* Ambiguidade/Ponto de esclarecimento: —
-* Stakeholders: Equipe de TI / Organizadores / Palestrantes
+- Contexto: CTX-02, CTX-06, CTX-08
+- Ambiguidade/Ponto de esclarecimento: AIC-06
+- Requisito funcional relacionado: RF-16
+- Stakeholder: Equipe de TI / Organizadores / Palestrantes
 
 **Observação:**
 As permissões específicas de cada perfil ainda precisam ser detalhadas.
@@ -83,9 +85,9 @@ O sistema deverá oferecer uma interface acessível aos usuários, considerando 
 
 **Rastreabilidade:**
 
-* Contexto: CTX-08
-* Ambiguidade/Ponto de esclarecimento: —
-* Stakeholders: Participantes / Equipe de TI
+- Contexto: CTX-08
+- Ambiguidade/Ponto de esclarecimento: —
+- Stakeholder: Participantes / Equipe de TI
 
 **Observação:**
 Os critérios e padrões de acessibilidade a serem adotados ainda precisam ser definidos.
@@ -99,7 +101,8 @@ O sistema deverá garantir a consistência das informações relacionadas à cap
 
 **Rastreabilidade:**
 
-* Contexto: CTX-04, CTX-05, CTX-07
-* Ambiguidade/Ponto de esclarecimento: AIC-02
-* Requisito funcional relacionado: RF-04, RF-08
-* Stakeholders: Organizadores / Equipe Financeira / Equipe de TI
+- Contexto: CTX-04, CTX-05, CTX-07
+- Ambiguidade/Ponto de esclarecimento: AIC-02
+- Requisitos funcionais relacionados: RF-04, RF-08
+- Regras de negócio relacionadas: RB-03, RB-05
+- Stakeholder: Organizadores / Equipe Financeira / Equipe de TI
