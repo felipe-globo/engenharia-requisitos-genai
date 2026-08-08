@@ -18,7 +18,7 @@ O sistema deverá permitir que participantes consultem os eventos disponíveis, 
 O sistema deverá permitir que participantes realizem inscrições em eventos disponíveis, respeitando as regras de vagas, pagamento e demais condições definidas para o evento.
 
 **Rastreabilidade:**
-- Contexto: CTX-03, CTX-05, CTX-07
+- Contexto: CTX-03, CTX-04, CTX-05, CTX-07
 - Ambiguidade/Ponto de esclarecimento: AIC-02
 - Stakeholder: Participante
 
@@ -44,6 +44,8 @@ O sistema deverá controlar a quantidade de vagas disponíveis para cada evento 
 **Rastreabilidade:**
 - Contexto: CTX-04, CTX-07
 - Ambiguidade/Ponto de esclarecimento: AIC-02
+- Regra de negócio relacionada: RB-03
+- Requisito não funcional relacionado: RNF-07
 - Stakeholder: Organizador
 
 ---
@@ -68,6 +70,7 @@ O sistema deverá disponibilizar um comprovante após a realização de uma insc
 **Rastreabilidade:**
 - Contexto: CTX-03
 - Ambiguidade/Ponto de esclarecimento: —
+- Requisito funcional relacionado: RF-17
 - Stakeholder: Participante
 
 ---
@@ -80,6 +83,7 @@ O sistema deverá permitir o cancelamento de inscrições para os eventos que di
 **Rastreabilidade:**
 - Contexto: CTX-03, CTX-07
 - Ambiguidade/Ponto de esclarecimento: AIC-01
+- Regra de negócio relacionada: RB-04
 - Stakeholder: Participante / Organizador
 
 ---
@@ -92,6 +96,8 @@ O sistema deverá permitir o gerenciamento de uma lista de espera para eventos o
 **Rastreabilidade:**
 - Contexto: CTX-04, CTX-07
 - Ambiguidade/Ponto de esclarecimento: AIC-02
+- Regra de negócio relacionada: RB-05
+- Requisito não funcional relacionado: RNF-07
 - Stakeholder: Participante / Organizador
 
 ---
@@ -104,6 +110,7 @@ O sistema deverá permitir que organizadores criem e gerenciem eventos, incluind
 **Rastreabilidade:**
 - Contexto: CTX-04, CTX-07
 - Ambiguidade/Ponto de esclarecimento: AIC-02
+- Regras de negócio relacionadas: RB-03, RB-04, RB-05
 - Stakeholder: Organizador
 
 ---
@@ -150,8 +157,9 @@ O sistema deverá permitir o registro e a confirmação dos pagamentos relaciona
 O sistema deverá permitir o gerenciamento de reembolsos relacionados às inscrições, de acordo com as condições estabelecidas para cada evento.
 
 **Rastreabilidade:**
-- Contexto: CTX-05
+- Contexto: CTX-05, CTX-07
 - Ambiguidade/Ponto de esclarecimento: AIC-01
+- Regra de negócio relacionada: RB-06
 - Stakeholder: Equipe Financeira
 
 ---
@@ -186,8 +194,9 @@ O sistema deverá permitir que palestrantes consultem a programação das ativid
 O sistema deverá permitir que palestrantes consultem os participantes inscritos nas atividades sob sua responsabilidade, respeitando as permissões de acesso definidas.
 
 **Rastreabilidade:**
-- Contexto: CTX-06
-- Ambiguidade/Ponto de esclarecimento: —
+- Contexto: CTX-06, CTX-08
+- Ambiguidade/Ponto de esclarecimento: AIC-06
+- Requisitos não funcionais relacionados: RNF-02, RNF-05
 - Stakeholder: Palestrante
 
 ---
@@ -198,9 +207,7 @@ O sistema deverá permitir que palestrantes consultem os participantes inscritos
 O sistema deverá enviar aos participantes comprovantes, confirmações e demais notificações relacionadas às suas inscrições e participação nos eventos.
 
 **Rastreabilidade:**
-- Contexto: CTX-03
-- Ambiguidade/Ponto de esclarecimento: —
+- Contexto: CTX-03, CTX-08
+- Ambiguidade/Ponto de esclarecimento: AIC-05
+- Requisito funcional relacionado: RF-06
 - Stakeholder: Participante
-
-**Observação:**  
-Os canais, tipos de notificações e condições para envio ainda precisam ser especificados.

@@ -7,10 +7,10 @@ Um evento poderá ser classificado como gratuito ou pago.
 
 **Rastreabilidade:**
 
-* Contexto: CTX-05, CTX-07
-* Ambiguidade/Ponto de esclarecimento: —
-* Requisitos funcionais relacionados: RF-02, RF-12
-* Stakeholder: Equipe Financeira / Organizador
+- Contexto: CTX-05, CTX-07
+- Ambiguidade/Ponto de esclarecimento: —
+- Requisitos funcionais relacionados: RF-02, RF-12
+- Stakeholder: Equipe Financeira / Organizador
 
 ---
 
@@ -21,10 +21,10 @@ Quando um evento exigir pagamento, determinadas inscrições deverão ter seu pa
 
 **Rastreabilidade:**
 
-* Contexto: CTX-05, CTX-07
-* Ambiguidade/Ponto de esclarecimento: AIC-02
-* Requisitos funcionais relacionados: RF-02, RF-12
-* Stakeholder: Equipe Financeira / Organizador
+- Contexto: CTX-05, CTX-07
+- Ambiguidade/Ponto de esclarecimento: AIC-02
+- Requisitos funcionais relacionados: RF-02, RF-12
+- Stakeholder: Equipe Financeira / Organizador
 
 ---
 
@@ -35,10 +35,10 @@ Cada evento ou atividade deverá possuir uma capacidade máxima de participantes
 
 **Rastreabilidade:**
 
-* Contexto: CTX-04, CTX-07
-* Ambiguidade/Ponto de esclarecimento: AIC-02
-* Requisitos funcionais relacionados: RF-02, RF-04
-* Stakeholder: Organizador
+- Contexto: CTX-04, CTX-07
+- Ambiguidade/Ponto de esclarecimento: AIC-02
+- Requisitos funcionais relacionados: RF-02, RF-04
+- Stakeholder: Organizador
 
 ---
 
@@ -49,10 +49,10 @@ O cancelamento de uma inscrição deverá estar disponível somente para eventos
 
 **Rastreabilidade:**
 
-* Contexto: CTX-03, CTX-07
-* Ambiguidade/Ponto de esclarecimento: AIC-01
-* Requisito funcional relacionado: RF-07
-* Stakeholder: Organizador / Participante
+- Contexto: CTX-03, CTX-07
+- Ambiguidade/Ponto de esclarecimento: AIC-01
+- Requisito funcional relacionado: RF-07
+- Stakeholder: Organizador / Participante
 
 ---
 
@@ -63,10 +63,10 @@ Eventos ou atividades que atingirem sua capacidade máxima poderão utilizar uma
 
 **Rastreabilidade:**
 
-* Contexto: CTX-04, CTX-07
-* Ambiguidade/Ponto de esclarecimento: AIC-02
-* Requisito funcional relacionado: RF-08
-* Stakeholder: Organizador / Participante
+- Contexto: CTX-04, CTX-07
+- Ambiguidade/Ponto de esclarecimento: AIC-02
+- Requisito funcional relacionado: RF-08
+- Stakeholder: Organizador / Participante
 
 **Observação:**
 O critério de ordenação, ingresso, convocação e confirmação da lista de espera ainda precisa ser definido.
@@ -80,10 +80,10 @@ O participante poderá ter direito a reembolso de acordo com as condições esta
 
 **Rastreabilidade:**
 
-* Contexto: CTX-05, CTX-07
-* Ambiguidade/Ponto de esclarecimento: AIC-01
-* Requisitos funcionais relacionados: RF-07, RF-13
-* Stakeholder: Equipe Financeira / Organizador
+- Contexto: CTX-05, CTX-07
+- Ambiguidade/Ponto de esclarecimento: AIC-01
+- Requisitos funcionais relacionados: RF-07, RF-13
+- Stakeholder: Equipe Financeira / Organizador
 
 **Observação:**
 Os critérios, prazos e valores de reembolso ainda precisam ser definidos.
@@ -97,10 +97,10 @@ As inscrições em atividades com horários conflitantes deverão seguir uma reg
 
 **Rastreabilidade:**
 
-* Contexto: CTX-03, CTX-04, CTX-07
-* Ambiguidade/Ponto de esclarecimento: AIC-03
-* Requisito funcional relacionado: RF-03
-* Stakeholder: Participante / Organizador
+- Contexto: CTX-03, CTX-04, CTX-07
+- Ambiguidade/Ponto de esclarecimento: AIC-03
+- Requisito funcional relacionado: RF-03
+- Stakeholder: Participante / Organizador
 
 **Observação:**
 Ainda não foi definido se o sistema deverá bloquear a inscrição, apresentar um alerta ou permitir a inscrição mediante confirmação do participante.
@@ -114,10 +114,10 @@ O certificado deverá ser disponibilizado ao participante de acordo com as condi
 
 **Rastreabilidade:**
 
-* Contexto: CTX-03, CTX-07
-* Ambiguidade/Ponto de esclarecimento: AIC-04
-* Requisito funcional relacionado: RF-14
-* Stakeholder: Participante / Organizador
+- Contexto: CTX-03, CTX-07
+- Ambiguidade/Ponto de esclarecimento: AIC-04
+- Requisito funcional relacionado: RF-14
+- Stakeholder: Participante / Organizador
 
 **Observação:**
 Ainda não foi definido se a confirmação de presença será obrigatória para a emissão do certificado.
