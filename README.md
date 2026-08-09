@@ -51,10 +51,12 @@ Foram descartadas funcionalidades inventadas. Também não foram adotados, nesta
 
 ### Por que estes artefatos foram escolhidos
 
-- **Análise** (elicitação, ambiguidades, RF, RNF, RB) captura o entendimento do domínio, restrições e decisões pendentes antes da especificação detalhada.
-- **Especificação** (histórias de usuário, casos de uso, critérios de aceitação, protótipos e fluxos) traduz a análise em comportamentos testáveis e jornadas compreensíveis para desenvolvimento e validação.
+Os artefatos da pasta `especificacao/` foram escolhidos por serem os mais adequados para traduzir a análise em uma **especificação ágil**, orientada a desenvolvimento e validação do Sistema de Gestão de Eventos:
 
-Histórias de usuário comunicam valor por stakeholder; casos de uso detalham interações complexas; critérios de aceitação tornam requisitos verificáveis; fluxos em diagrama representam as jornadas principais sem antecipar implementação visual. A rastreabilidade por identificadores garante auditabilidade — requisito central quando a IA propõe e o autor valida, sem substituir decisões de negócio.
+- **Histórias de usuário** (`historias-de-usuario.md`) — comunicam o valor esperado por cada perfil de stakeholder (participante, organizador, equipe financeira e palestrante), facilitando priorização e alinhamento com o negócio.
+- **Casos de uso** (`casos-de-uso.md`) — descrevem interações do sistema, como inscrição, pagamento, cancelamento e lista de espera, incluindo pré-condições e fluxos alternativos quando necessário.
+- **Critérios de aceitação** (`criterios-de-aceitacao.md`) — tornam os requisitos verificáveis, explicitando condições de sucesso e registrando o que permanece indefinido (AIC) até validação com stakeholders.
+- **Protótipos e fluxos** (`prototipos-e-fluxos.md`) — representam as jornadas principais em diagramas, permitindo visualizar o fluxo do usuário sem antecipar protótipos visuais de alta fidelidade.
 
 ---
 
