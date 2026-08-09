@@ -3,7 +3,6 @@
 ## AIC-01 — Cancelamento e Reembolso
 
 **Categoria:** Regra de negócio  
-**Prioridade:** Alta
 
 Não está definido até quando o participante poderá cancelar sua inscrição, quais eventos permitirão cancelamento e em quais situações haverá direito a reembolso.
 
@@ -20,7 +19,6 @@ Não está definido até quando o participante poderá cancelar sua inscrição,
 ## AIC-02 — Lista de Espera e Controle de Vagas
 
 **Categoria:** Regra de negócio / Funcionalidade  
-**Prioridade:** Alta
 
 O documento informa que eventos podem possuir lista de espera quando atingirem sua capacidade, mas não define como esse mecanismo deverá funcionar.
 
@@ -40,7 +38,6 @@ Também não está definido em qual momento uma vaga será considerada ocupada: 
 ## AIC-03 — Conflitos de Horários
 
 **Categoria:** Regra de negócio  
-**Prioridade:** Alta
 
 Os participantes demonstraram interesse em realizar múltiplas inscrições, enquanto os organizadores informaram que workshops que ocorrem no mesmo horário devem ocorrer simultaneamente. Não foi definido como o sistema deverá tratar inscrições com conflito de horários.
 
@@ -57,7 +54,6 @@ Os participantes demonstraram interesse em realizar múltiplas inscrições, enq
 ## AIC-04 — Certificados e Controle de Presença
 
 **Categoria:** Regra de negócio / Funcionalidade  
-**Prioridade:** Alta
 
 O documento informa que os participantes poderão emitir certificados, mas não define se a emissão dependerá da confirmação de presença no evento.
 
@@ -74,7 +70,6 @@ O documento informa que os participantes poderão emitir certificados, mas não 
 ## AIC-05 — Notificações
 
 **Categoria:** Funcionalidade  
-**Prioridade:** Alta
 
 O documento indica que o sistema deverá enviar comprovantes, confirmações e demais notificações aos participantes, mas não define os canais de comunicação, os tipos de notificação nem as condições para envio.
 
@@ -91,7 +86,6 @@ O documento indica que o sistema deverá enviar comprovantes, confirmações e d
 ## AIC-06 — Permissões de Acesso aos Dados
 
 **Categoria:** Regra de negócio / Não funcional  
-**Prioridade:** Alta
 
 O documento indica que palestrantes deverão consultar participantes de suas atividades e que o acesso aos dados deverá respeitar permissões definidas, mas não detalha quais perfis podem acessar quais informações.
 
@@ -108,7 +102,6 @@ O documento indica que palestrantes deverão consultar participantes de suas ati
 ## AIC-05 — Notificações
 
 **Categoria:** Funcionalidade  
-**Prioridade:** Alta
 
 O documento indica que o sistema deverá enviar comprovantes, confirmações e demais notificações aos participantes, mas não define os canais de comunicação, os tipos de notificação nem as condições para envio.
 
@@ -125,7 +118,6 @@ O documento indica que o sistema deverá enviar comprovantes, confirmações e d
 ## AIC-06 — Permissões de Acesso aos Dados
 
 **Categoria:** Regra de negócio / Não funcional  
-**Prioridade:** Alta
 
 O documento indica que palestrantes deverão consultar participantes de suas atividades e que o acesso aos dados deverá respeitar permissões definidas, mas não detalha quais perfis podem acessar quais informações.
 
